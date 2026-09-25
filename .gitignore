@@ -19,3 +19,6 @@ api/data/*.npy
 .idea/
 .DS_Store
 Thumbs.db
+
+# Configuracion local del frontend (el .example si se versiona)
+frontend/.streamlit/secrets.toml
